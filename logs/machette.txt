@@ -477,3 +477,21 @@
 {"level":"info","message":"Connection to MongoDB Established","service":"machette","timestamp":"13:39:08 12/10/2023"}
 {"level":"info","message":"Machette API started on 3000 in mode dev","service":"machette","timestamp":"13:39:10 12/10/2023"}
 {"level":"info","message":"Connection to MongoDB Established","service":"machette","timestamp":"13:39:10 12/10/2023"}
+{"level":"info","message":"Machette API started on 3000 in mode dev","service":"machette","timestamp":"13:44:56 12/10/2023"}
+{"level":"info","message":"Connection to MongoDB Established","service":"machette","timestamp":"13:44:56 12/10/2023"}
+{"level":"info","message":"GET /books/ ::1","service":"machette","timestamp":"13:44:59 12/10/2023"}
+{"level":"info","message":"Machette API started on 3000 in mode dev","service":"machette","timestamp":"13:47:38 12/10/2023"}
+{"level":"info","message":"Connection to MongoDB Established","service":"machette","timestamp":"13:47:38 12/10/2023"}
+{"level":"info","message":"Machette API started on 3000 in mode dev","service":"machette","timestamp":"13:47:49 12/10/2023"}
+{"level":"info","message":"Connection to MongoDB Established","service":"machette","timestamp":"13:47:50 12/10/2023"}
+{"level":"info","message":"Machette API started on 3000 in mode dev","service":"machette","timestamp":"13:47:51 12/10/2023"}
+{"level":"info","message":"Connection to MongoDB Established","service":"machette","timestamp":"13:47:51 12/10/2023"}
+{"level":"info","message":"Machette API started on 3000 in mode dev","service":"machette","timestamp":"13:47:54 12/10/2023"}
+{"level":"info","message":"Connection to MongoDB Established","service":"machette","timestamp":"13:47:55 12/10/2023"}
+{"level":"info","message":"Machette API started on http3000 in mode dev","service":"machette","timestamp":"13:52:57 12/10/2023"}
+{"level":"info","message":"Connection to MongoDB Established","service":"machette","timestamp":"13:52:57 12/10/2023"}
+{"level":"info","message":"Machette API started on http://localhost3000 in mode dev","service":"machette","timestamp":"13:53:01 12/10/2023"}
+{"level":"info","message":"Machette API started on http://localhost:3000 in mode dev","service":"machette","timestamp":"13:53:02 12/10/2023"}
+{"level":"info","message":"Connection to MongoDB Established","service":"machette","timestamp":"13:53:02 12/10/2023"}
+{"level":"info","message":"Machette API started on http://localhost:3000 in mode dev","service":"machette","timestamp":"13:54:49 12/10/2023"}
+{"level":"info","message":"Connection to MongoDB Established","service":"machette","timestamp":"13:54:50 12/10/2023"}

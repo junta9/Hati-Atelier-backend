@@ -13,7 +13,8 @@ router.post("/", checkToken, async (req, res) => {
   if (req.decoded.role === "admin") {
     const book = await BookModel.create(body);
     res.json({
-      message: "Book created successfully",});
+      message: "Book created successfully",
+      book,});
   } else
     res.json({
       message: "Vous devez etre administrateur",

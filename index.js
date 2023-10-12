@@ -53,5 +53,5 @@ app.use((err, req, res, next) => {
 })
 
 app.listen(PORT, () => {
-    logger.log('info', `Machette API started on ${PORT} in mode ${process.env.NODE_ENV}`);
+    logger.log('info', `Machette API started on http://localhost:${PORT} in mode ${process.env.NODE_ENV}`);
 });
